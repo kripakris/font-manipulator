@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 29px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:8px 8px 8px rgb(241, 118, 167);
+
+}
+#title{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(250, 238, 238);
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    font-size: 20px;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: #9b9090;
+    text-align: center;
+}
